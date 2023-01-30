@@ -1,6 +1,4 @@
-# LGMVIP-Web
-
-## Task 3 - Student Registration Form
+# Student Registration Form
 
 ### Create students registration form using HTML, CSS, JAVASCRIPT.
 
